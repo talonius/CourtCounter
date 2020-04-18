@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Football Counter</string>
+    <string name="touchdown_caption">Touchdown (+6)</string>
+    <string name="field_goal_caption">Field Goal (+3)</string>
+    <string name="conversion_caption">Conversion (+2)</string>
+    <string name="safety_caption">Safety (+2)</string>
+    <string name="extra_point_caption">Extra Point (+1)</string>
+    <string name="default_score">0</string>
+    <string name="team_a_description">Team A</string>
+    <string name="team_b_description">Team B</string>
+    <string name="reset_caption">Reset</string>
+
+    <string name="headerFontFamily">sans-serif-medium</string>
+    <string name="scoreFontFamily">sans-serif-light</string>
+</resources>
